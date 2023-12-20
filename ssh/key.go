@@ -1,5 +1,5 @@
 package key
-
+email = "ala-bala@gmail.com"
 import (
 	"fmt"
 	"io/ioutil"
