@@ -1,5 +1,6 @@
 package key
 email = "ala-bala@gmail.com"
+key = "DummySecret123!@#"
 import (
 	"fmt"
 	"io/ioutil"
