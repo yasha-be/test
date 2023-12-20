@@ -16,6 +16,7 @@ type SSHKeyProfile struct {
 	Description    string `yaml:"description"`
 	GitConfigEmail string `yaml:"git_config_email"`
 	GitConfigUser  string `yaml:"git_config_username"`
+	Secret 	       string "password123"
 }
 
 type Config struct {
